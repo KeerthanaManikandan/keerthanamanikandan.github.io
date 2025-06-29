@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - keerthanamanikandan
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+ - keerthanamanikandan/ISOI_Ephys
+ - keerthanamanikandan/DualProbe
+ - keerthanamanikandan/NMA-2020
+ - keerthanamanikandan/NMA-course-content
+ - keerthanamanikandan/CommonPrograms
+ - keerthanamanikandan/badTrialCodes
