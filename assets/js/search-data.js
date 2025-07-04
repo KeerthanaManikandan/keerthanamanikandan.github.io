@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -393,11 +379,17 @@ ninja.data = [{
             },},{id: "news-started-my-phd-in-bioengineering-at-the-university-of-pittsburgh-right-in-the-middle-of-covid",
           title: 'Started my PhD in Bioengineering at the University of Pittsburgh - right in...',
           description: "",
-          section: "News",},{id: "news-i-ve-been-awarded-the-wesley-c-pickard-fellowship-for-the-2024-2025-academic-year-read-more-here",
-          title: 'I’ve been awarded the Wesley C Pickard Fellowship for the 2024-2025 academic year....',
+          section: "News",},{id: "news-presented-my-first-poster-from-my-phd-at-society-for-neuroscience-at-washington-dc",
+          title: 'Presented my first poster from my PhD at Society for Neuroscience at Washington...',
           description: "",
-          section: "News",},{id: "news-my-abstract-was-accepted-to-present-at-simian-collective-in-august-2025",
-          title: 'My abstract was accepted to present at Simian Collective in August 2025!',
+          section: "News",},{id: "news-awarded-the-wesley-c-pickard-fellowship-for-the-2024-2025-academic-year",
+          title: 'Awarded the Wesley C Pickard Fellowship for the 2024-2025 academic year.',
+          description: "",
+          section: "News",},{id: "news-presented-my-latest-research-at-simian-collective-in-pittsburgh",
+          title: 'Presented my latest research at Simian Collective in Pittsburgh.',
+          description: "",
+          section: "News",},{id: "news-my-abstract-was-accepted-for-a-poster-presentation-at-simian-collective-in-august-2025",
+          title: 'My abstract was accepted for a poster presentation at Simian Collective in August...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
