@@ -32,27 +32,20 @@
       company: Philips Healthcare
       year: 2017-2018
 
-#- title: Open Source Projects
- # type: time_table
-  #contents:
-   # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #  year: 2015-now
-     # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Fellowships and Awards
   type: time_table
   contents:
     - title: Wesley C. Pickard Fellowship, Bioengineering
       year: 2024-2025
-      description: Fellowship covering full stipend for the academic year
+      description: Fellowship covering full stipend for the academic year in recognition of research excellence.
    
     - title: Travel award, Center for Neural Basis of Cognitition (CNBC)
       year: 2024
-      description: Travel grant to attend and present a poster at Simian Collective Conference
+      description: Travel grant to attend and present a poster at Simian Collective Conference.
 
     - title: Special Opportunity Fund, Bioengineering
-    year: 2024
-    description: Travel grant to attend the Neuropixels and OpenScope Workshop at the Allen Insitute.
+      year: 2024
+      description: Travel grant to attend the Neuropixels and OpenScope Workshop at the Allen Insitute.
 
 - title: Skills
   type: list

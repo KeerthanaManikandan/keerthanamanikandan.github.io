@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
  - keerthanamanikandan/ISOI_Ephys
+ - keerthanamanikandan/DualProbeAnalysis
  - keerthanamanikandan/NMA-2020
  - keerthanamanikandan/NMA-course-content
  - keerthanamanikandan/CommonPrograms
