@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Relevant posters and paper publications.
+title: publications and posters
+description: 
 nav: true
 nav_order: 2
 ---
