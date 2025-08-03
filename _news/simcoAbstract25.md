@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-04 09:15:00
+date: 2025-07-14 09:15:00
 inline: true
 related_posts: false
 ---
 
-My abstract was accepted for a poster presentation at Simian Collective in August 2025! 
+My abstract was accepted for a trainee talk at Simian Collective in August 2025! 
